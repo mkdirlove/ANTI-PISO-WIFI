@@ -1,24 +1,5 @@
 #!/usr/bin/env bash
-# =========================================================================== #
-#           FILE:  hackaptive.sh                                              #
-#          USAGE:  sudo ./hackaptive.sh                                       #
-#                                                                             #
-#    DESCRIPTION:  This script helps to pass through the captive portals in   #
-#                  public Wi-Fi networks. It hijacks IP and MAC from somebody #
-#                  who is already connected and authorized on captive portal. #
-#                  Tested in Ubuntu 16.04 with different captive portals in   #
-#                  airports and hotels all over the world.                    #
-#                                                                             #
-#   REQUIREMENTS:  coreutils, sipcalc, nmap                                   #
-#          NOTES:  Let the information always be free!                        #
-#         AUTHOR:  Stanislav "systematicat" Kotivetc, <@systematicat>         #
-#        COMPANY:  Hire me! I am a cool dude!                                 #
-#        VERSION:  1.0                                                        #
-#        CREATED:  16.12.2016 - 23:59                                         #
-#       REVISION:  ---                                                        #
-#      COPYRIGHT:  2016 Stanislav "systematicat" Kotivetc                     #
-#        LICENSE:  WTFPL v2                                                   #
-# =========================================================================== #
+
 
 # Find the initial parameters of wireless interface.
 interface="$(ip -o -4 route show to default | awk '/dev/ {print $5}')"
