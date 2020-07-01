@@ -13,7 +13,8 @@ THIS TOOL IS USEFUL FOR SCHOOL WIFI OR PISO WIFI WHICH IS AN OPEN NETWORK WITH C
 `$ cd ANTI-PISO-WIFI`
 
 `$ chmod +x *`
-
+# CONNECT TO A PISO WIFI THEN RUN THIS COMMAND
+#
 `$ sudo ./anti-piso-wifi.sh`
 # PREVIEW
 ![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/ANTI-PISO-WIFI/blob/master/1.png)
