@@ -5,13 +5,17 @@ ETO NA ANG SAGOT SA PROBLEMA MO LODSSS HAHAHA
 A WIFI HACKING TOOL THAT AUTOMATICALLY CONNECTS TO AN OPEN WIFI / NETWORK WITHOUT SIGNING IN.
 
 THIS TOOL IS USEFUL FOR SCHOOL WIFI OR PISO WIFI WHICH IS AN OPEN NETWORK WITH CAPTIVE PORTAL.
-
+#
 # INTALLATION & USAGE
+#
+`$ git clone https://github.com/mkdirlove/ANTI-PISO-WIFI.git`
 
-$ git clone https://github.com/mkdirlove/ANTI-PISO-WIFI.git
+`$ cd ANTI-PISO-WIFI`
 
-$ cd ANTI-PISO-WIFI
+`$ chmod +x *`
 
-$ chmod +x *
-
-$ sudo ./anti-piso-wifi.sh
+`$ sudo ./anti-piso-wifi.sh`
+# PREVIEW
+![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/ANTI-PISO-WIFI/blob/master/1.png)
+#
+![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/ANTI-PISO-WIFI/blob/master/vokoscreen-2020-07-01_09-07-59.mkv)
