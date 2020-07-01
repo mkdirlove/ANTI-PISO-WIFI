@@ -17,3 +17,5 @@ THIS TOOL IS USEFUL FOR SCHOOL WIFI OR PISO WIFI WHICH IS AN OPEN NETWORK WITH C
 `$ sudo ./anti-piso-wifi.sh`
 # PREVIEW
 ![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/ANTI-PISO-WIFI/blob/master/1.png)
+#
+![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/ANTI-PISO-WIFI/blob/master/2.gif)
